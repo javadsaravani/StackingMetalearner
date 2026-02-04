@@ -15,25 +15,37 @@ pip install pandas numpy scikit-learn matplotlib tkinter xgboost statsmodels
 ### Step 1: Data Upload
 Upload your raw CSV data and configure the preprocessing settings.
 
-![Data Upload Tab](https://images/data_upload.png)
+![Data Upload Tab]
+<p align="center">
+  <img src="data_upload.png" >
+</p>
 *Configure data columns and feature engineering settings*
 
 ### Step 2: Baseline Models
 Train and evaluate multiple baseline forecasting models.
 
-![Baseline Models Tab](https://images/baseline_models.png)
+![Baseline Models Tab]
+<p align="center">
+  <img src="baseline_models.png" >
+</p>
 *Select models to train and view individual performance*
 
 ### Step 3: Metalearner
 Combine baseline model predictions using an intelligent meta-learner.
 
-![Metalearner Tab](https://images/metalearner.png)
+![Metalearner Tab]
+<p align="center">
+  <img src="metalearner.png" >
+</p>
 *Configure and train the metalearner to combine model predictions*
 
 ### Step 4: Results & Comparison
 Compare all models and export results.
 
-![Results & Comparison Tab](https://images/results_comparison.png)
+![Results & Comparison Tab]
+<p align="center">
+  <img src="results_comparison.png" >
+</p>
 *Compare model performance and export final results*
 
 **Comparison Views:**
